@@ -1,6 +1,6 @@
 ﻿// programa que suma los primeros n numeros:
 
-var n = 50;
+var n = 25;
 
 var suma = 0;
 
