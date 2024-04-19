@@ -12,4 +12,5 @@ for (var i = 1; i < n; i++)
 
 
 
+
 Console.WriteLine("la suma es: " + suma.ToString());
